@@ -14,7 +14,7 @@ Reads feature data from the training and test data files
 Merges the training and test data together
 Keeps only the features that are mean or std type calculations
 Applies metadata information from step 1 to provide descriptive variable names to the data
-Generates one dataset and writes it locally as "tidyHRAdataset.csv"
+Generates one dataset and writes it locally as "TidyData.txt"
 Groups the dataset by activity and subject and calculates the average for each mean and std feature
-Writes "tidy2HRAdataset.csv locally.
-Both the "tidyHRAdataset.csv" and "tidy2HRAdatset.cvs are provided in this repository.
+Writes "TidyData.txt" locally.
+
